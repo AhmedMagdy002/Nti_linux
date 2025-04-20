@@ -127,10 +127,3 @@ curl https://www.google.com -o google.html
 ```
 ![image](https://github.com/user-attachments/assets/13423aca-2fe6-495f-b277-7458d62c39e3)
 
-## 17. **Create a new VM** (e.g., VirtualBox/Cloud instance), add a user to the `sudoers` group, and run `apt update && apt upgrade`.  
-
-## 18. **Generate an SSH key pair** using `ssh-keygen`.  
-## 19. **Copy your public key** to the remote server:  
-## 20. **SSH into the server** and verify with `hostname`.  
-## 21. **Transfer the archived file** (e.g., `archive.tar.gz`) to the remote server using ssh copy way (don’t copy/paste >>> you have to search)
-
